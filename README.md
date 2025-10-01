@@ -14,9 +14,9 @@ Auto-generated README. Problems grouped by difficulty.
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
-| 1 | two-sums |  | [code](./solutions/easy/two-sums.js) |
+| 1 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
 
 
 ---
 
-_Last updated: 2025-10-01T04:41:22.211Z_
+_Last updated: 2025-10-01T04:50:46.539Z_
