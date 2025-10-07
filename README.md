@@ -4,19 +4,20 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 1
+- **Easy**: 2
 - **Medium**: 0
 - **Hard**: 0
 
 ---
 
-## Easy (1)
+## Easy (2)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
-| 1 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 1 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
+| 2 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
 
 
 ---
 
-_Last updated: 2025-10-01T04:51:12.716Z_
+_Last updated: 2025-10-07T13:51:00.007Z_
