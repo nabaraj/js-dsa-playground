@@ -1,7 +1,7 @@
 /**
- * title: Move Zeros
+ * title: Reverse Word
  * difficulty: easy
- * tags: array
+ * tags: array, string
  * problem: Write a function reverseWords(str) that reverses the order of words in a string.
             Words are separated by one or more spaces. You must remove extra spaces so that the result has only single spaces between words and no leading or trailing spaces.
 
