@@ -4,21 +4,22 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 3
+- **Easy**: 4
 - **Medium**: 0
 - **Hard**: 0
 
 ---
 
-## Easy (3)
+## Easy (4)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
-| 1 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
-| 2 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
-| 3 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 1 | Find the Missing Number | array | [code](./solutions/easy/find-missing-number.js) |
+| 2 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
+| 3 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
+| 4 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
 
 
 ---
 
-_Last updated: 2025-10-09T14:33:32.350Z_
+_Last updated: 2025-10-10T15:10:38.004Z_
