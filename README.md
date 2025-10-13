@@ -24,9 +24,9 @@ Auto-generated README. Problems grouped by difficulty.
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
-| 1 | Find the Missing Number | string | [code](./solutions/medium/longest-substring.js) |
+| 1 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
 
 
 ---
 
-_Last updated: 2025-10-13T15:33:22.377Z_
+_Last updated: 2025-10-13T15:39:33.528Z_
