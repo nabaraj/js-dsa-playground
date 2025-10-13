@@ -1,5 +1,5 @@
 /**
- * title: Find the Longest Unique Substring Lenght
+ * title: Find the Longest Unique Substring Length
  * difficulty: medium
  * tags: string
  * problem: Task: Given a string s, return the length of the longest substring that has no repeating characters.

@@ -5,7 +5,7 @@ Auto-generated README. Problems grouped by difficulty.
 ## Summary
 
 - **Easy**: 4
-- **Medium**: 0
+- **Medium**: 1
 - **Hard**: 0
 
 ---
@@ -20,6 +20,13 @@ Auto-generated README. Problems grouped by difficulty.
 | 4 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
 
 
+## Medium (1)
+
+| # | Problem | Tags | Solution |
+|---|---|---|---|
+| 1 | Find the Missing Number | string | [code](./solutions/medium/longest-substring.js) |
+
+
 ---
 
-_Last updated: 2025-10-10T15:13:11.160Z_
+_Last updated: 2025-10-13T15:33:22.377Z_
