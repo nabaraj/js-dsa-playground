@@ -5,7 +5,7 @@ Auto-generated README. Problems grouped by difficulty.
 ## Summary
 
 - **Easy**: 6
-- **Medium**: 2
+- **Medium**: 3
 - **Hard**: 0
 
 ---
@@ -22,14 +22,15 @@ Auto-generated README. Problems grouped by difficulty.
 | 6 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
 
 
-## Medium (2)
+## Medium (3)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Group anagram | string,  array,  reverse,  sort,  Hash map / grouping by normalized key | [code](./solutions/medium/group-anagrams.js) |
-| 2 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
+| 2 | Least Recently Used (LRU) cache | class,  array,  Map | [code](./solutions/medium/least-recently-used.js) |
+| 3 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
 
 
 ---
 
-_Last updated: 2025-10-20T08:01:27.416Z_
+_Last updated: 2025-10-22T15:29:29.320Z_
