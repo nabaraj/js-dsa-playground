@@ -6,7 +6,7 @@ Auto-generated README. Problems grouped by difficulty.
 
 - **Easy**: 6
 - **Medium**: 4
-- **Hard**: 0
+- **Hard**: 1
 
 ---
 
@@ -32,6 +32,13 @@ Auto-generated README. Problems grouped by difficulty.
 | 4 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
 
 
+## Hard (1)
+
+| # | Problem | Tags | Solution |
+|---|---|---|---|
+| 1 | Group anagram | Class,  binary search,  private method | [code](./solutions/hard/find-median.js) |
+
+
 ---
 
-_Last updated: 2025-10-23T16:56:50.501Z_
+_Last updated: 2025-10-24T04:16:29.505Z_
