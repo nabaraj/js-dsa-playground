@@ -6,7 +6,7 @@ Auto-generated README. Problems grouped by difficulty.
 
 - **Easy**: 6
 - **Medium**: 4
-- **Hard**: 1
+- **Hard**: 2
 
 ---
 
@@ -32,13 +32,14 @@ Auto-generated README. Problems grouped by difficulty.
 | 4 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
 
 
-## Hard (1)
+## Hard (2)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Group anagram | Class,  binary search,  private method | [code](./solutions/hard/find-median.js) |
+| 2 | Trapping Rain Water | array | [code](./solutions/hard/trapping-rain-water.js) |
 
 
 ---
 
-_Last updated: 2025-10-24T04:16:56.386Z_
+_Last updated: 2025-10-29T15:27:35.833Z_
