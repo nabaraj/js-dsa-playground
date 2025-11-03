@@ -4,13 +4,13 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 6
+- **Easy**: 7
 - **Medium**: 4
 - **Hard**: 2
 
 ---
 
-## Easy (6)
+## Easy (7)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
@@ -20,6 +20,7 @@ Auto-generated README. Problems grouped by difficulty.
 | 4 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
 | 5 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
 | 6 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 7 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (4)
@@ -42,4 +43,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-10-29T15:28:10.674Z_
+_Last updated: 2025-11-03T15:52:23.603Z_
