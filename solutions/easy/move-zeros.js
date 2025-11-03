@@ -15,8 +15,7 @@ function moveZeros(nums) {
     nums[insertPos++] = 0;
   }
   return nums;
-  }
-  console.log(moveZeros([0, 1, 0, 3, 12]));
-  console.log(moveZeros([0, 0, 1]));
-  module.exports = moveZeros;
-  
+}
+console.log(moveZeros([0, 1, 0, 3, 12]));
+console.log(moveZeros([0, 0, 1]));
+
