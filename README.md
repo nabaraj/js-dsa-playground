@@ -5,7 +5,7 @@ Auto-generated README. Problems grouped by difficulty.
 ## Summary
 
 - **Easy**: 7
-- **Medium**: 4
+- **Medium**: 5
 - **Hard**: 2
 
 ---
@@ -23,14 +23,15 @@ Auto-generated README. Problems grouped by difficulty.
 | 7 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
-## Medium (4)
+## Medium (5)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Group anagram | string,  array,  reverse,  sort,  Hash map / grouping by normalized key | [code](./solutions/medium/group-anagrams.js) |
 | 2 | Least Recently Used (LRU) cache | class,  array,  Map | [code](./solutions/medium/least-recently-used.js) |
 | 3 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
-| 4 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
+| 4 | Merge Intervals | string,  array,  reverse,  sort,  Hash map / grouping by normalized key | [code](./solutions/medium/merge-intervals.js) |
+| 5 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
 
 
 ## Hard (2)
@@ -43,4 +44,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-11-03T15:54:05.300Z_
+_Last updated: 2025-11-04T15:48:59.073Z_
