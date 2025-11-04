@@ -1,7 +1,7 @@
 /**
  * title: Merge Intervals
  * difficulty: medium
- * tags: string, array, reverse, sort, Hash map / grouping by normalized key
+ * tags: tags: array, sorting, greedy, interval
  * problem: Given an array of intervals where intervals[i] = [start_i, end_i], merge all overlapping intervals and return an array of the non-overlapping intervals that cover all the intervals in the input.
 
 Function signature (JavaScript):
