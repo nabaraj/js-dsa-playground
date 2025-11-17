@@ -4,23 +4,24 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 7
+- **Easy**: 8
 - **Medium**: 7
 - **Hard**: 2
 
 ---
 
-## Easy (7)
+## Easy (8)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Find the Missing Number | array | [code](./solutions/easy/find-missing-number.js) |
-| 2 | First non-repeating character | string | [code](./solutions/easy/first-non-repeating-character.js) |
-| 3 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
-| 4 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
-| 5 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
-| 6 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
-| 7 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
+| 2 | Find the Maximum Number in an Array | array | [code](./solutions/easy/find-the-maximum-number-in-an-array.js) |
+| 3 | First non-repeating character | string | [code](./solutions/easy/first-non-repeating-character.js) |
+| 4 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
+| 5 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
+| 6 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
+| 7 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 8 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (7)
@@ -46,4 +47,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-11-12T19:08:57.111Z_
+_Last updated: 2025-11-17T15:13:55.953Z_
