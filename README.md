@@ -4,13 +4,13 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 11
+- **Easy**: 12
 - **Medium**: 7
 - **Hard**: 2
 
 ---
 
-## Easy (11)
+## Easy (12)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
@@ -23,8 +23,9 @@ Auto-generated README. Problems grouped by difficulty.
 | 7 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
 | 8 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
 | 9 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
-| 10 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
-| 11 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
+| 10 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
+| 11 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 12 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (7)
@@ -50,4 +51,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-11-26T15:30:43.642Z_
+_Last updated: 2025-11-27T14:22:30.421Z_
