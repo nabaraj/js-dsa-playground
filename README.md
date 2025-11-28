@@ -4,28 +4,29 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 12
+- **Easy**: 13
 - **Medium**: 7
 - **Hard**: 2
 
 ---
 
-## Easy (12)
+## Easy (13)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Count how many times a target number appears in an array | array | [code](./solutions/easy/count-occurrences.js) |
-| 2 | Find the Missing Number | array | [code](./solutions/easy/find-missing-number.js) |
-| 3 | Find the Maximum Number in an Array | array | [code](./solutions/easy/find-the-maximum-number-in-an-array.js) |
-| 4 | First non-repeating character | string | [code](./solutions/easy/first-non-repeating-character.js) |
-| 5 | array is sorted | array,  every | [code](./solutions/easy/is-array-sorted.js) |
-| 6 | Leader Elements Problem | array | [code](./solutions/easy/leader-elements-problem.js) |
-| 7 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
-| 8 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
-| 9 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
-| 10 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
-| 11 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
-| 12 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
+| 2 | Find largest string | array,  string | [code](./solutions/easy/find-largest-string.js) |
+| 3 | Find the Missing Number | array | [code](./solutions/easy/find-missing-number.js) |
+| 4 | Find the Maximum Number in an Array | array | [code](./solutions/easy/find-the-maximum-number-in-an-array.js) |
+| 5 | First non-repeating character | string | [code](./solutions/easy/first-non-repeating-character.js) |
+| 6 | array is sorted | array,  every | [code](./solutions/easy/is-array-sorted.js) |
+| 7 | Leader Elements Problem | array | [code](./solutions/easy/leader-elements-problem.js) |
+| 8 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
+| 9 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
+| 10 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
+| 11 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
+| 12 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 13 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (7)
@@ -51,4 +52,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-11-27T14:23:29.105Z_
+_Last updated: 2025-11-28T14:55:34.266Z_
