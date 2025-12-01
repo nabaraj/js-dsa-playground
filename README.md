@@ -4,13 +4,13 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 13
+- **Easy**: 14
 - **Medium**: 7
 - **Hard**: 2
 
 ---
 
-## Easy (13)
+## Easy (14)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
@@ -26,7 +26,8 @@ Auto-generated README. Problems grouped by difficulty.
 | 10 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
 | 11 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
 | 12 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
-| 13 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
+| 13 | Unique Numbers | array,  hash-map | [code](./solutions/easy/unique-entries.js) |
+| 14 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (7)
@@ -52,4 +53,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-11-28T14:57:07.851Z_
+_Last updated: 2025-12-01T14:40:42.244Z_
