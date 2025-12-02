@@ -4,13 +4,13 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 14
+- **Easy**: 15
 - **Medium**: 7
 - **Hard**: 2
 
 ---
 
-## Easy (14)
+## Easy (15)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
@@ -19,15 +19,16 @@ Auto-generated README. Problems grouped by difficulty.
 | 3 | Find the Missing Number | array | [code](./solutions/easy/find-missing-number.js) |
 | 4 | Find the Maximum Number in an Array | array | [code](./solutions/easy/find-the-maximum-number-in-an-array.js) |
 | 5 | First non-repeating character | string | [code](./solutions/easy/first-non-repeating-character.js) |
-| 6 | array is sorted | array,  every | [code](./solutions/easy/is-array-sorted.js) |
-| 7 | Leader Elements Problem | array | [code](./solutions/easy/leader-elements-problem.js) |
-| 8 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
-| 9 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
-| 10 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
-| 11 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
-| 12 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
-| 13 | Unique Numbers | array,  hash-map | [code](./solutions/easy/unique-entries.js) |
-| 14 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
+| 6 | First unique character | string,  hash-map | [code](./solutions/easy/first-unique-character.js) |
+| 7 | array is sorted | array,  every | [code](./solutions/easy/is-array-sorted.js) |
+| 8 | Leader Elements Problem | array | [code](./solutions/easy/leader-elements-problem.js) |
+| 9 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
+| 10 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
+| 11 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
+| 12 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
+| 13 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 14 | Unique Numbers | array,  hash-map | [code](./solutions/easy/unique-entries.js) |
+| 15 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (7)
@@ -53,4 +54,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-12-01T14:41:19.899Z_
+_Last updated: 2025-12-02T14:18:53.493Z_
