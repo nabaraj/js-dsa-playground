@@ -5,7 +5,7 @@ Auto-generated README. Problems grouped by difficulty.
 ## Summary
 
 - **Easy**: 15
-- **Medium**: 7
+- **Medium**: 8
 - **Hard**: 2
 
 ---
@@ -31,17 +31,18 @@ Auto-generated README. Problems grouped by difficulty.
 | 15 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
-## Medium (7)
+## Medium (8)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
-| 1 | Group anagram | string,  array,  reverse,  sort,  Hash map / grouping by normalized key | [code](./solutions/medium/group-anagrams.js) |
-| 2 | Least Recently Used (LRU) cache | class,  array,  Map | [code](./solutions/medium/least-recently-used.js) |
-| 3 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
-| 4 | Merge Intervals | tags: array,  sorting,  greedy,  interval | [code](./solutions/medium/merge-intervals.js) |
-| 5 | Product of Array Except Self | Array,  products | [code](./solutions/medium/product-of-array.js) |
-| 6 | Spiral Matrix | Array,  Matrix,  Simulation,  Two Pointers / Boundary pointers,  Traversal | [code](./solutions/medium/spiral-matrix.js) |
-| 7 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
+| 1 | Continuous Subarrays Sum | array,  prefix-sum,  hashmap | [code](./solutions/medium/continuous-subarray-sum.js) |
+| 2 | Group anagram | string,  array,  reverse,  sort,  Hash map / grouping by normalized key | [code](./solutions/medium/group-anagrams.js) |
+| 3 | Least Recently Used (LRU) cache | class,  array,  Map | [code](./solutions/medium/least-recently-used.js) |
+| 4 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
+| 5 | Merge Intervals | tags: array,  sorting,  greedy,  interval | [code](./solutions/medium/merge-intervals.js) |
+| 6 | Product of Array Except Self | Array,  products | [code](./solutions/medium/product-of-array.js) |
+| 7 | Spiral Matrix | Array,  Matrix,  Simulation,  Two Pointers / Boundary pointers,  Traversal | [code](./solutions/medium/spiral-matrix.js) |
+| 8 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
 
 
 ## Hard (2)
@@ -54,4 +55,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-12-02T14:19:15.260Z_
+_Last updated: 2025-12-04T17:25:48.412Z_
