@@ -43,5 +43,3 @@ function groupAnagrams(words) {
 
     return Object.values(tracker);
 }
-
-console.log(groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]));
