@@ -5,7 +5,7 @@ Auto-generated README. Problems grouped by difficulty.
 ## Summary
 
 - **Easy**: 15
-- **Medium**: 8
+- **Medium**: 9
 - **Hard**: 2
 
 ---
@@ -31,18 +31,19 @@ Auto-generated README. Problems grouped by difficulty.
 | 15 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
-## Medium (8)
+## Medium (9)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Continuous Subarrays Sum | array,  prefix-sum,  hashmap | [code](./solutions/medium/continuous-subarray-sum.js) |
 | 2 | Group anagram | string,  array,  reverse,  sort,  Hash map / grouping by normalized key | [code](./solutions/medium/group-anagrams.js) |
 | 3 | Least Recently Used (LRU) cache | class,  array,  Map | [code](./solutions/medium/least-recently-used.js) |
-| 4 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
-| 5 | Merge Intervals | tags: array,  sorting,  greedy,  interval | [code](./solutions/medium/merge-intervals.js) |
-| 6 | Product of Array Except Self | Array,  products | [code](./solutions/medium/product-of-array.js) |
-| 7 | Spiral Matrix | Array,  Matrix,  Simulation,  Two Pointers / Boundary pointers,  Traversal | [code](./solutions/medium/spiral-matrix.js) |
-| 8 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
+| 4 | Longest increasing subsequence | array,  hashmap | [code](./solutions/medium/longest-increasing-subsequence.js) |
+| 5 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
+| 6 | Merge Intervals | tags: array,  sorting,  greedy,  interval | [code](./solutions/medium/merge-intervals.js) |
+| 7 | Product of Array Except Self | Array,  products | [code](./solutions/medium/product-of-array.js) |
+| 8 | Spiral Matrix | Array,  Matrix,  Simulation,  Two Pointers / Boundary pointers,  Traversal | [code](./solutions/medium/spiral-matrix.js) |
+| 9 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
 
 
 ## Hard (2)
@@ -55,4 +56,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-12-04T17:27:30.271Z_
+_Last updated: 2025-12-05T18:37:46.884Z_
