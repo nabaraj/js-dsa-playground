@@ -5,7 +5,7 @@ Auto-generated README. Problems grouped by difficulty.
 ## Summary
 
 - **Easy**: 15
-- **Medium**: 9
+- **Medium**: 10
 - **Hard**: 2
 
 ---
@@ -31,7 +31,7 @@ Auto-generated README. Problems grouped by difficulty.
 | 15 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
-## Medium (9)
+## Medium (10)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
@@ -44,6 +44,7 @@ Auto-generated README. Problems grouped by difficulty.
 | 7 | Product of Array Except Self | Array,  products | [code](./solutions/medium/product-of-array.js) |
 | 8 | Spiral Matrix | Array,  Matrix,  Simulation,  Two Pointers / Boundary pointers,  Traversal | [code](./solutions/medium/spiral-matrix.js) |
 | 9 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
+| 10 | Zero Sum Subarray | array | [code](./solutions/medium/zero-sum-subarray.js) |
 
 
 ## Hard (2)
@@ -56,4 +57,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-12-05T18:38:09.848Z_
+_Last updated: 2025-12-09T15:43:54.500Z_
