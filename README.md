@@ -4,13 +4,13 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 15
+- **Easy**: 17
 - **Medium**: 10
 - **Hard**: 2
 
 ---
 
-## Easy (15)
+## Easy (17)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
@@ -28,7 +28,9 @@ Auto-generated README. Problems grouped by difficulty.
 | 12 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
 | 13 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
 | 14 | Unique Numbers | array,  hash-map | [code](./solutions/easy/unique-entries.js) |
-| 15 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
+| 15 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrom.js) |
+| 16 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrome.js) |
+| 17 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (10)
@@ -57,4 +59,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2025-12-09T15:44:17.402Z_
+_Last updated: 2026-01-09T07:59:33.980Z_
