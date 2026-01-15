@@ -5,7 +5,7 @@ Auto-generated README. Problems grouped by difficulty.
 ## Summary
 
 - **Easy**: 18
-- **Medium**: 11
+- **Medium**: 12
 - **Hard**: 2
 
 ---
@@ -34,21 +34,22 @@ Auto-generated README. Problems grouped by difficulty.
 | 18 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
-## Medium (11)
+## Medium (12)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Continuous Subarrays Sum | array,  prefix-sum,  hashmap | [code](./solutions/medium/continuous-subarray-sum.js) |
-| 2 | Group anagram | string,  array,  reverse,  sort,  Hash map / grouping by normalized key | [code](./solutions/medium/group-anagrams.js) |
-| 3 | Least Recently Used (LRU) cache | class,  array,  Map | [code](./solutions/medium/least-recently-used.js) |
-| 4 | Longest increasing subsequence | array,  hashmap | [code](./solutions/medium/longest-increasing-subsequence.js) |
-| 5 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
-| 6 | Maximum Sum of Subarray of Size K | Array,  Sliding Window | [code](./solutions/medium/maximum-sum-subarray.js) |
-| 7 | Merge Intervals | tags: array,  sorting,  greedy,  interval | [code](./solutions/medium/merge-intervals.js) |
-| 8 | Product of Array Except Self | Array,  products | [code](./solutions/medium/product-of-array.js) |
-| 9 | Spiral Matrix | Array,  Matrix,  Simulation,  Two Pointers / Boundary pointers,  Traversal | [code](./solutions/medium/spiral-matrix.js) |
-| 10 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
-| 11 | Zero Sum Subarray | array | [code](./solutions/medium/zero-sum-subarray.js) |
+| 2 | First element that appears more than once | array,  hashmap,  set | [code](./solutions/medium/first-duplicate-element.js) |
+| 3 | Group anagram | string,  array,  reverse,  sort,  Hash map / grouping by normalized key | [code](./solutions/medium/group-anagrams.js) |
+| 4 | Least Recently Used (LRU) cache | class,  array,  Map | [code](./solutions/medium/least-recently-used.js) |
+| 5 | Longest increasing subsequence | array,  hashmap | [code](./solutions/medium/longest-increasing-subsequence.js) |
+| 6 | Find the Longest Unique Substring Length | string | [code](./solutions/medium/longest-substring.js) |
+| 7 | Maximum Sum of Subarray of Size K | Array,  Sliding Window | [code](./solutions/medium/maximum-sum-subarray.js) |
+| 8 | Merge Intervals | tags: array,  sorting,  greedy,  interval | [code](./solutions/medium/merge-intervals.js) |
+| 9 | Product of Array Except Self | Array,  products | [code](./solutions/medium/product-of-array.js) |
+| 10 | Spiral Matrix | Array,  Matrix,  Simulation,  Two Pointers / Boundary pointers,  Traversal | [code](./solutions/medium/spiral-matrix.js) |
+| 11 | Top K Frequent Elements | HashMap,  Sorting,  TopK,  JavaScript,  Array | [code](./solutions/medium/top-k-frequent-elements.js) |
+| 12 | Zero Sum Subarray | array | [code](./solutions/medium/zero-sum-subarray.js) |
 
 
 ## Hard (2)
@@ -61,4 +62,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2026-01-15T05:30:18.790Z_
+_Last updated: 2026-01-15T14:23:37.382Z_
