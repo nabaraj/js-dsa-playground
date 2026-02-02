@@ -4,13 +4,13 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 18
+- **Easy**: 19
 - **Medium**: 12
 - **Hard**: 2
 
 ---
 
-## Easy (18)
+## Easy (19)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
@@ -25,13 +25,14 @@ Auto-generated README. Problems grouped by difficulty.
 | 9 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
 | 10 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
 | 11 | Remove Duplicates from Sorted Array | Array,  Two Pointers | [code](./solutions/easy/remove-duplicate-in-place.js) |
-| 12 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
-| 13 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
-| 14 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
-| 15 | Unique Numbers | array,  hash-map | [code](./solutions/easy/unique-entries.js) |
-| 16 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrom.js) |
-| 17 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrome.js) |
-| 18 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
+| 12 | Return longest word length | array,  string | [code](./solutions/easy/return-longest-word-length.js) |
+| 13 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
+| 14 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
+| 15 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 16 | Unique Numbers | array,  hash-map | [code](./solutions/easy/unique-entries.js) |
+| 17 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrom.js) |
+| 18 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrome.js) |
+| 19 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (12)
@@ -62,4 +63,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2026-01-15T14:24:28.247Z_
+_Last updated: 2026-02-02T15:30:20.200Z_
