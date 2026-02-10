@@ -6,7 +6,7 @@ Auto-generated README. Problems grouped by difficulty.
 
 - **Easy**: 20
 - **Medium**: 14
-- **Hard**: 2
+- **Hard**: 3
 
 ---
 
@@ -56,14 +56,15 @@ Auto-generated README. Problems grouped by difficulty.
 | 14 | Zero Sum Subarray | array | [code](./solutions/medium/zero-sum-subarray.js) |
 
 
-## Hard (2)
+## Hard (3)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Group anagram | Class,  binary search,  private method | [code](./solutions/hard/find-median.js) |
 | 2 | Trapping Rain Water | array | [code](./solutions/hard/trapping-rain-water.js) |
+| 3 | Length of the Shortest Unsorted Continuous Subarray | Array,  Two Pointers,  Greedy | [code](./solutions/hard/unsorted-continuous-subarray.js) |
 
 
 ---
 
-_Last updated: 2026-02-06T12:26:19.054Z_
+_Last updated: 2026-02-10T16:48:27.076Z_
