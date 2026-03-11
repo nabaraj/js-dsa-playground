@@ -4,36 +4,37 @@ Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
-- **Easy**: 20
+- **Easy**: 21
 - **Medium**: 14
 - **Hard**: 3
 
 ---
 
-## Easy (20)
+## Easy (21)
 
 | # | Problem | Tags | Solution |
 |---|---|---|---|
 | 1 | Count how many times a target number appears in an array | array | [code](./solutions/easy/count-occurrences.js) |
 | 2 | Contains Duplicate | array,  hash-map | [code](./solutions/easy/find-contains-duplicate.js) |
-| 3 | Find largest string | array,  string | [code](./solutions/easy/find-largest-string.js) |
-| 4 | Find the Missing Number | array | [code](./solutions/easy/find-missing-number.js) |
-| 5 | Find the Maximum Number in an Array | array | [code](./solutions/easy/find-the-maximum-number-in-an-array.js) |
-| 6 | First non-repeating character | string | [code](./solutions/easy/first-non-repeating-character.js) |
-| 7 | First unique character | string,  hash-map | [code](./solutions/easy/first-unique-character.js) |
-| 8 | array is sorted | array,  every | [code](./solutions/easy/is-array-sorted.js) |
-| 9 | Leader Elements Problem | array | [code](./solutions/easy/leader-elements-problem.js) |
-| 10 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
-| 11 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
-| 12 | Remove Duplicates from Sorted Array | Array,  Two Pointers | [code](./solutions/easy/remove-duplicate-in-place.js) |
-| 13 | Return longest word length | array,  string | [code](./solutions/easy/return-longest-word-length.js) |
-| 14 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
-| 15 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
-| 16 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
-| 17 | Unique Numbers | array,  hash-map | [code](./solutions/easy/unique-entries.js) |
-| 18 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrom.js) |
-| 19 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrome.js) |
-| 20 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
+| 3 | Find duplicates | array,  hash-set | [code](./solutions/easy/find-duplicate-entries.js) |
+| 4 | Find largest string | array,  string | [code](./solutions/easy/find-largest-string.js) |
+| 5 | Find the Missing Number | array | [code](./solutions/easy/find-missing-number.js) |
+| 6 | Find the Maximum Number in an Array | array | [code](./solutions/easy/find-the-maximum-number-in-an-array.js) |
+| 7 | First non-repeating character | string | [code](./solutions/easy/first-non-repeating-character.js) |
+| 8 | First unique character | string,  hash-map | [code](./solutions/easy/first-unique-character.js) |
+| 9 | array is sorted | array,  every | [code](./solutions/easy/is-array-sorted.js) |
+| 10 | Leader Elements Problem | array | [code](./solutions/easy/leader-elements-problem.js) |
+| 11 | Merge Two Sorted Array | array,  two pointer | [code](./solutions/easy/merge-sorted-array.js) |
+| 12 | Move Zeros | array | [code](./solutions/easy/move-zeros.js) |
+| 13 | Remove Duplicates from Sorted Array | Array,  Two Pointers | [code](./solutions/easy/remove-duplicate-in-place.js) |
+| 14 | Return longest word length | array,  string | [code](./solutions/easy/return-longest-word-length.js) |
+| 15 | Reverse Word | array,  string | [code](./solutions/easy/reverse-word.js) |
+| 16 | Index of smallest no | array | [code](./solutions/easy/smallest-index.js) |
+| 17 | Two Sum | array,  hash-map | [code](./solutions/easy/two-sums.js) |
+| 18 | Unique Numbers | array,  hash-map | [code](./solutions/easy/unique-entries.js) |
+| 19 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrom.js) |
+| 20 | Valid Palindrome | string,  hash-map | [code](./solutions/easy/valid-palindrome.js) |
+| 21 | Valid Parentheses | array,  hash-map,  string | [code](./solutions/easy/valid-parentheses.js) |
 
 
 ## Medium (14)
@@ -67,4 +68,4 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2026-02-10T16:48:51.874Z_
+_Last updated: 2026-03-11T04:23:56.229Z_
