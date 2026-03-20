@@ -2,7 +2,9 @@
 const fs = require('fs');
 const path = require('path');
 
+
 const SOLUTIONS_DIR = path.join(__dirname, '..', 'solutions');
+const MACHINE_TEST_DIR = path.join(__dirname, '..', 'machine-test');
 const OUT_README = path.join(__dirname, '..', 'README.md');
 
 function readMeta(filePath) {
@@ -78,6 +80,64 @@ function buildReadme(items) {
   md += `\n---\n\n_Last updated: ${new Date().toISOString()}_\n`;
   return md;
 }
+function buildMachineTestSection(items) {
+  if (!items.length) return '';
+
+  const byCat = items.reduce((acc, it) => {
+    acc[it.category] = acc[it.category] || [];
+    acc[it.category].push(it);
+    return acc;
+  }, {});
+
+  const ordered = ['javascript', 'react', 'vue'];
+
+  let md = `\n## Machine Tests\n\n`;
+
+  for (const cat of ordered) {
+    const list = byCat[cat] || [];
+    if (!list.length) continue;
+
+    md += `### ${cat.charAt(0).toUpperCase() + cat.slice(1)} (${list.length})\n\n`;
+    md += `| # | Title | Tags | Solution |\n|---|---|---|---|\n`;
+
+    list.forEach((it, idx) => {
+      const link = `./${it.filePath}`;
+      const tags = it.tags ? it.tags.replace(/,/g, ', ') : '';
+      md += `| ${idx + 1} | ${it.title} | ${tags} | [code](${link}) |\n`;
+    });
+
+    md += `\n`;
+  }
+
+  return md;
+}
+function walkMachineTests(dir) {
+  if (!fs.existsSync(dir)) return [];
+
+  const result = [];
+  const categories = fs.readdirSync(dir).filter(d =>
+    fs.statSync(path.join(dir, d)).isDirectory()
+  );
+
+  for (const cat of categories) {
+    const folder = path.join(dir, cat);
+    const files = fs.readdirSync(folder).filter(f => f.endsWith('.js'));
+
+    for (const f of files) {
+      const full = path.join(folder, f);
+      const meta = readMeta(full) || {};
+
+      result.push({
+        filePath: path.relative(path.join(__dirname, '..'), full).replace(/\\/g, '/'),
+        category: cat.toLowerCase(), // javascript | react | vue
+        title: meta.title || path.basename(f, '.js'),
+        tags: meta.tags || '',
+      });
+    }
+  }
+
+  return result;
+}
 
 // main
 (function main() {
@@ -85,8 +145,11 @@ function buildReadme(items) {
     console.error('No solutions directory found:', SOLUTIONS_DIR);
     process.exit(1);
   }
-  const items = walkSolutions(SOLUTIONS_DIR);
-  const md = buildReadme(items);
+  const dsaItems = walkSolutions(SOLUTIONS_DIR);
+  const machineItems = walkMachineTests(MACHINE_TEST_DIR);
+
+  let md = buildReadme(dsaItems);
+  md += buildMachineTestSection(machineItems);
   fs.writeFileSync(OUT_README, md, 'utf8');
-  console.log('README generated with', items.length, 'solutions');
+  console.log('README generated with', dsaItems.length, 'solutions and ', machineItems.length, 'machine tests');
 })();
