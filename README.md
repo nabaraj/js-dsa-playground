@@ -68,4 +68,13 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2026-03-20T15:59:12.418Z_
+_Last updated: 2026-03-20T16:06:40.645Z_
+
+## Machine Tests
+
+### Javascript (1)
+
+| # | Title | Tags | Solution |
+|---|---|---|---|
+| 1 | Minimal Test Framework (BDD Style) | testing,  async,  recursion | [code](./machine-test/javascript/minimal-test-framework.js) |
+
