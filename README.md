@@ -68,13 +68,14 @@ Auto-generated README. Problems grouped by difficulty.
 
 ---
 
-_Last updated: 2026-03-27T14:30:20.333Z_
+_Last updated: 2026-03-27T14:33:16.696Z_
 
 ## Machine Tests
 
-### Javascript (1)
+### Javascript (2)
 
 | # | Title | Tags | Solution |
 |---|---|---|---|
-| 1 | Minimal Test Framework (BDD Style) | testing,  async,  recursion | [code](./machine-test/javascript/minimal-test-framework.js) |
+| 1 | Custom Event Emitter (Pub-Sub System) | design-patterns,  callbacks,  events | [code](./machine-test/javascript/event-emitter.js) |
+| 2 | Minimal Test Framework (BDD Style) | testing,  async,  recursion | [code](./machine-test/javascript/minimal-test-framework.js) |
 
