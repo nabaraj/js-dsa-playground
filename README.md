@@ -1,6 +1,6 @@
 # Data Structures & Algorithms — JavaScript
 
-Auto-generated README. Problems grouped by difficulty and machine-test.
+Auto-generated README. Problems grouped by difficulty.
 
 ## Summary
 
@@ -68,7 +68,7 @@ Auto-generated README. Problems grouped by difficulty and machine-test.
 
 ---
 
-_Last updated: 2026-03-20T16:06:40.645Z_
+_Last updated: 2026-03-27T13:28:03.626Z_
 
 ## Machine Tests
 
