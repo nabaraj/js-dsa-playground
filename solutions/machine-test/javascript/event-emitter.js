@@ -1,12 +1,12 @@
 
 /**
  * title: Custom Event Emitter (Pub-Sub System)
- * category: Vanilla JavaScript
+ * category: javascript
  * difficulty: Medium
  * tags: design-patterns, callbacks, events
- * * problem:
+ * problem:
  * Build a class-based EventEmitter to manage custom events and listeners.
- * * requirements:
+ * requirements:
  * - subscribe(eventName, callback, once): Register a listener for an event.
  * - unsubscribe(eventName, callback): Remove a specific listener from an event.
  * - emit(eventName, data): Trigger all listeners associated with an event.
